@@ -1,0 +1,21 @@
+{
+  "name": "crimson-red",
+  "displayName": "crimson-red",
+  "description": "A VS-Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crimson Red - Sanzu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crimson Red - Sanzu-color-theme.json"
+      }
+    ]
+  }
+}
